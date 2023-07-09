@@ -1,1 +1,2 @@
-## Wordpress Thema
+# Wordpress Theme
+
